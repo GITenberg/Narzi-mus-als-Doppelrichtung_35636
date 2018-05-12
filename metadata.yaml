@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37791
     wikipedia: http://en.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35636#Narzi-mus-als-Doppelrichtung
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-03-20'
 gutenberg_type: Text
